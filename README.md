@@ -168,7 +168,7 @@ Follow these steps to run AI Data Analyst locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Data-Analyst.git
+git clone https://github.com/Hakouben26/AI-Data-Analyst.git
 ```
 
 ### 2. Navigate to the Project Directory
